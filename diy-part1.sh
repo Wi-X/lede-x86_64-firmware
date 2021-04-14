@@ -18,6 +18,7 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 #git clone https://github.com/Wi-X/openwrt-r8125 package/openwrt-r8125
 
+cd /package/lean/
 
 git clone https://github.com/jerrykuku/lua-maxminddb.git #git lua-maxminddb 依赖
 
