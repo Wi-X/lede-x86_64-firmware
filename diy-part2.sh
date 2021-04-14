@@ -13,4 +13,4 @@
 # Modify default IP
 sed -i 's/10.10.10.10/10.10.10.10/g' package/base-files/files/bin/config_generate
 
-
+make menuconfig #choose LUCI->Theme->Luci-theme-argon  
