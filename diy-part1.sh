@@ -24,5 +24,5 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git #git lua-maxminddb ‰æùË
 
 git clone https://github.com/jerrykuku/luci-app-vssr.git
 
-rm -rf luci-theme-argon  
-git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
+# rm -rf luci-theme-argon  
+# git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git  
